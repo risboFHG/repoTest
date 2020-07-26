@@ -1,6 +1,8 @@
 class helleworld(){
+	
+	String name = "Risbo";
 
 	public static void main(String[] arg){
-		System.out.println("HELLO TOUT LE MONDE" );
+		System.out.println("HELLO " + name );
 	}
 }
